@@ -54,33 +54,15 @@ a {
   text-decoration: none;
 }
 
-table {
-	margin-left: 650px;
-	border-collapse: collapse;
-}
-
-table th {
-	text-align: left;
-	background-color: Black;
-	Color: White;
-}
-
-table td {
-	border: 1px Solid black;
-	padding: 4px 8px;
-}
 
 .embed1 {
-    width: 85%;
-    height: 110%;
+    width: 90%;
+    height: 150%;
     position: absolute;
-    align-content: center;
+    margin-left: 1px;
+    position: relative;
+    min-height: 670px;
     
-    text-align: center;
-    top: auto;
-    left: auto;
- 
-  
 
 }
 
