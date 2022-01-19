@@ -1,9 +1,19 @@
 *{box-sizing: border-box;}
 
-body {
-	background-color: rgb(256, 256, 256);
+
+
+
+
+
+
+html {
+	background-color: rgb(32, 30, 30);
 	font-family: sans-serif;
+	color: white;
 }
+
+
+
 
 header {
 	text-align: left;
