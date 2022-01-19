@@ -69,3 +69,18 @@ table td {
 	border: 1px Solid black;
 	padding: 4px 8px;
 }
+
+.embed1 {
+    width: 85%;
+    height: 110%;
+    position: absolute;
+    align-content: center;
+    
+    text-align: center;
+    top: auto;
+    left: auto;
+ 
+  
+
+}
+
