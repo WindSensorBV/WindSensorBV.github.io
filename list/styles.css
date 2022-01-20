@@ -1,71 +1,83 @@
-*{box-sizing: border-box;}
+* {
+    box-sizing: border-box;
+}
 
-body {
-	background-color: rgb(256, 256, 256);
-	font-family: sans-serif;
+html {
+    background-color: rgb(32, 30, 30);
+    font-family: 'Dosis', sans-serif;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    padding-bottom: 10px;
 }
 
 header {
-	text-align: left;
-	padding: 10px;
-	height: 150px;]
-	font-family: sans;
+    text-align: center;
+    padding: 10px;
+    height: 150px;
+    ] font-family: sans;
 }
 
-h2 { 
-	margin-top: 35px;
-	margin-left: 25px;
-	vertical-align: top;
-	margin-bottom: 20px;
+h2 {
+    margin-top: 35px;
+    margin-left: 25px;
+    vertical-align: top;
+    margin-bottom: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+footer {
+    padding-top: 100px;
 }
 
 nav {
-	background-color: rgb(0, 0, 0);
-	border-radius: 15px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    text-align: center;
 }
 
-nav > ul > li {
-	display: inline-block;
-	padding: 20px;
+nav>ul>li {
+    display: inline-block;
+    padding: 20px;
+    text-align: center;
 }
 
-nav > ul > li:hover {
-  background-color: rgb(23, 23, 23);
+nav>ul>li:hover {
+    background-color: rgb(23, 23, 23);
 }
 
-nav > ul > li > ul {
-  background-color: rgb(23, 23, 23);
-  padding: 0;
-  display: none;
-  position: absolute;
+nav>ul>li>ul {
+    background-color: rgb(23, 23, 23);
+    padding: 0;
+    display: none;
+    position: absolute;
 }
 
-nav > ul > li > ul > li:hover {
-  background-color: rgba(0, 0, 0, 0.6);
+nav>ul>li>ul>li:hover {
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
-nav > ul > li:hover > ul {
-  display: block;
+nav>ul>li:hover>ul {
+    display: block;
 }
+
 a {
-  padding: 10px;
-  display: inline-block;
-  color: white;
-  text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding-left: 0px;
 }
 
-table {
-	margin-left: 650px;
-	border-collapse: collapse;
-}
-
-table th {
-	text-align: left;
-	background-color: Black;
-	Color: White;
-}
-
-table td {
-	border: 1px Solid black;
-	padding: 4px 8px;
+.embed1 {
+    width: 90%;
+    height: 150%;
+    position: absolute;
+    margin-left: 1px;
+    position: relative;
+    min-height: 670px;
 }
