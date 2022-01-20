@@ -7,6 +7,26 @@ h3 {
     font-size: 30px;
 }
 
+.homehtml {
+    padding: 0px;
+    font-size: 30px;
+    
+    text-decoration-style: dashed;
+    text-decoration: white;
+}
+
+
+.homehtml:hover {
+    text-decoration: underline;
+    font-style: oblique;
+    font-size: 35px;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-style: oblique;
+}
+
 html {
     background-color: rgb(32, 30, 30);
     font-family: 'Dosis', sans-serif;
