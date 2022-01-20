@@ -10,7 +10,7 @@ h3 {
 .homehtml {
     padding: 0px;
     font-size: 30px;
-    
+
     text-decoration-style: dashed;
     text-decoration: white;
 }
@@ -22,7 +22,7 @@ h3 {
     font-size: 35px;
 }
 
-a:hover{
+a:hover {
     text-decoration: underline;
     font-style: oblique;
 }
