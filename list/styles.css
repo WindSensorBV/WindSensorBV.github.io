@@ -18,12 +18,12 @@ header {
     text-align: center;
     padding: 10px;
     height: 150px;
-    ] font-family: sans;
+    font-family: sans;
 }
 
 h2 {
     margin-top: 35px;
-    margin-left: 25px;
+    font-size: 25px;
     vertical-align: top;
     margin-bottom: 20px;
     text-align: center;
