@@ -81,10 +81,3 @@ a {
     position: relative;
     min-height: 670px;
 }
-
-.parallax {
-    background: url('imgs/parralax1.jpg') no-repeat center;
-    background-size: cover;
-    background-attachment: fixed;
-    height: 550px;
-}
