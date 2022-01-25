@@ -3,15 +3,10 @@
 }
 
 .parallax {
-
     background: url("/imgs/parralax1.jpg") no-repeat center;
-
     background-size: cover;
-
     background-attachment: fixed;
-
     height: 550px;
-
 }
 
 html {
