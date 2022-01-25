@@ -2,6 +2,18 @@
     box-sizing: border-box;
 }
 
+.parallax {
+
+    background: url('imgs/parralax1.jpg') no-repeat center;
+
+    background-size: cover;
+
+    background-attachment: fixed;
+
+    height: 550px;
+
+}
+
 html {
     background-color: rgb(32, 30, 30);
     font-family: 'Dosis', sans-serif;
@@ -9,6 +21,8 @@ html {
     text-align: center;
     padding: 10px;
 }
+
+
 
 h1 {
     padding-bottom: 10px;
