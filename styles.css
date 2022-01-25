@@ -9,6 +9,13 @@
     height: 550px;
 }
 
+.welcometitle {
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+
+}
+
 html {
     background-color: rgb(32, 30, 30);
     font-family: 'Dosis', sans-serif;
