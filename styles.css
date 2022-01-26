@@ -13,7 +13,6 @@
     font-size: 20px;
     text-align: center;
     align-items: center;
-
 }
 
 html {
@@ -23,8 +22,6 @@ html {
     text-align: center;
     padding: 10px;
 }
-
-
 
 h1 {
     padding-bottom: 10px;
@@ -44,6 +41,10 @@ h2 {
     margin-bottom: 20px;
     text-align: center;
     align-items: center;
+}
+
+h3 {
+    padding-top: -10px;
 }
 
 footer {
@@ -96,4 +97,9 @@ a {
     margin-left: 1px;
     position: relative;
     min-height: 670px;
+}
+
+.sub {
+    vertical-align: sub;
+    font-size: xx-small;
 }
